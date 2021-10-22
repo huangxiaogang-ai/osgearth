@@ -1,0 +1,35 @@
+﻿  Generate moc_predefs.h
+  moc_QtnCommonStyle.cpp
+  moc_QtnOfficeFrameHelper_win.cpp
+  moc_QtnOfficePopupColorButton.cpp
+  moc_QtnOfficePopupMenu.cpp
+  moc_QtnOfficePopupWindow.cpp
+  moc_QtnOfficeStyle.cpp
+  moc_QtnPopupHelpers.cpp
+  moc_QtnRibbonBackstageView.cpp
+  moc_QtnRibbonBackstageViewPrivate.cpp
+  moc_QtnRibbonBar.cpp
+  moc_QtnRibbonBarPrivate.cpp
+  moc_QtnRibbonButton.cpp
+  moc_QtnRibbonGallery.cpp
+  moc_QtnRibbonGalleryPrivate.cpp
+  moc_QtnRibbonGroup.cpp
+  moc_QtnRibbonGroupLayout.cpp
+  moc_QtnRibbonGroupPrivate.cpp
+  moc_QtnRibbonMainWindow.cpp
+  moc_QtnRibbonPage.cpp
+  moc_QtnRibbonPrivate.cpp
+  正在生成代码...
+  正在编译...
+  moc_QtnRibbonQuickAccessBar.cpp
+  moc_QtnRibbonSliderPane.cpp
+  moc_QtnRibbonStatusBar.cpp
+  moc_QtnRibbonStyle.cpp
+  moc_QtnRibbonSystemPopupBar.cpp
+  moc_QtnRibbonTabBar.cpp
+  moc_QtnRibbonToolTip.cpp
+  正在生成代码...
+    正在创建库 E:\osgearth\build\bin\x64\Debug\qribbond3d.lib 和对象 E:\osgearth\build\bin\x64\Debug\qribbond3d.exp
+  qribbon.vcxproj -> E:\osgearth\build\bin\x64\Debug\qribbond3d.dll
+  Copy qribbond3.dll to ..\..\..\bin
+  已复制         1 个文件。

@@ -1,0 +1,15 @@
+QT.core_private.VERSION = 5.12.5
+QT.core_private.name = QtCore
+QT.core_private.module =
+QT.core_private.libs = $$QT_MODULE_LIB_BASE
+QT.core_private.includes = $$QT_MODULE_INCLUDE_BASE/QtCore/5.12.5 $$QT_MODULE_INCLUDE_BASE/QtCore/5.12.5/QtCore
+QT.core_private.frameworks =
+QT.core_private.depends = core
+QT.core_private.uses =
+QT.core_private.module_config = v2 internal_module
+QT.core_private.enabled_features = datetimeparser doubleconversion icu sha3-fast system-doubleconversion system-pcre2
+QT.core_private.disabled_features = clock-gettime dlopen etw futimens futimes getauxval getentropy glib glibc gnu-libiconv iconv inotify journald linkat lttng posix-libiconv renameat2 slog2 statx syslog
+QMAKE_LIBS_ICU = $$[QT_INSTALL_LIBS]/icuin.lib $$[QT_INSTALL_LIBS]/icutu.lib $$[QT_INSTALL_LIBS]/icuuc.lib $$[QT_INSTALL_LIBS]/icuio.lib $$[QT_INSTALL_LIBS]/icudt.lib Advapi32.lib
+QMAKE_LIBS_LIBATOMIC = 
+QMAKE_LIBS_DOUBLECONVERSION = $$[QT_INSTALL_LIBS]/double-conversion.lib
+QMAKE_LIBS_PCRE2 = $$[QT_INSTALL_LIBS]/pcre2-16.lib
